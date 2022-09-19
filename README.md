@@ -1,11 +1,12 @@
 # cara-cruz
 <p>Cara-cruz es mi versión JAVA del conocido juego de azar de cara o cruz convertido en aplicación de escritorio.  
-La dinámica del juego es muy sencilla:  
--Juagamos contra la máquina.
--Nosotros elegimos primero. En primer lugar elige tu opción y la cantidad de puntos a apostar.  
--De manera automática la máquina seleccionará la otra opción y de forma ramdom hara su apuesta.  
--Nunca se podrá apostar más de la cantidad de puntos que tenemos.
--El primero que se quede a 0 pierde y finaliza la partida.
+La dinámica del juego es muy sencilla:
+
+- Juagamos contra la máquina.
+- Nosotros elegimos primero. En primer lugar elige tu opción y la cantidad de puntos a apostar.  
+- De manera automática la máquina seleccionará la otra opción y de forma ramdom hara su apuesta.   
+- Nunca se podrá apostar más de la cantidad de puntos que tenemos. 
+- El primero que se quede a 0 pierde y finaliza la partida.
 </p>
 
 
