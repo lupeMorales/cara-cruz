@@ -1,4 +1,4 @@
-# cara-cruz  <span> | </span>  <a href="https://drive.google.com/file/d/1kwTJHR4ort5j3zSQzfLJz0Cffr6OPnYE/view?usp=sharing" target="_blank">   Demo </a><span> | </span>
+# cara-cruz 
 
 <p>Cara-cruz es mi versión JAVA del conocido juego de azar de cara o cruz convertido en aplicación de escritorio.  
 La dinámica del juego es muy sencilla:
